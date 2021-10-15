@@ -1,13 +1,9 @@
-# `@napi-rs/package-template`
-
-![https://github.com/napi-rs/package-template/actions](https://github.com/napi-rs/package-template/workflows/CI/badge.svg)
-
-> Template project for writing node package with napi-rs.
+# `@soluble/cpu-features`
 
 ## Install this test package
 
 ```
-yarn add @napi-rs/package-template
+yarn add @soluble/cpu-features
 ```
 
 ## Support matrix
